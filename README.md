@@ -2,6 +2,20 @@
 
 Эта программа - модель пожара и дронов для его тушения.
 
+## Примеры видео
+
+"Победа": огонь сведен на нет:
+
+![https://github.com/ennucore/big-break-fires/raw/master/win.gif](https://github.com/ennucore/big-break-fires/raw/master/win.gif)
+
+"Проигрыш": огонь распространился:
+
+![https://github.com/ennucore/big-break-fires/raw/master/losing.gif](https://github.com/ennucore/big-break-fires/raw/master/losing.gif)
+
+"Ничья": установилось равновесие:
+
+![https://github.com/ennucore/big-break-fires/raw/master/stasis.gif](https://github.com/ennucore/big-break-fires/raw/master/stasis.gif)
+
 ## Установка
 
 Чтобы скачать репозиторий, сделайте `git clone https://github.com/ennucore/big-break-fires`
